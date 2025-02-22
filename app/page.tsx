@@ -72,18 +72,34 @@ export default function Home() {
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
+          href="https://github.com/francescocarlucci/nomadicards"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Image
+            aria-hidden
+            src="/file.svg"
+            alt=""
+            width={16}
+            height={16}
+          />
+          The Project
+        </a>
+
+        <a
+          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
+          href="https://francescocarlucci.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Image
             aria-hidden
             src="/globe.svg"
-            alt="Globe icon"
+            alt=""
             width={16}
             height={16}
           />
-          Created by Frenxi →
+          Created by Frenxi
         </a>
       </footer>
     </div>
