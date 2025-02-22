@@ -9,7 +9,7 @@ export default function Home() {
           className=""
           src="/nomadicards_logo.png"
           alt=""
-          width={300}
+          width={280}
           height={100}
         />
 
