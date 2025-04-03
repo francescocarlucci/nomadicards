@@ -28,7 +28,7 @@ export default function Home() {
         who loves deep conversations. They are not for sale, but you can request<br/>
         a <b>free deck</b> by <a href="mailto:info@francescocarlucci.com" className="underline">shooting him an email</a> (especially if you run a coliving)! ☺️</p>
 
-        <p>And if you really can't wait to play, scroll down this page and get a digital<br/>
+        <p>And if you really can\'t wait to play, scroll down this page and get a digital<br/>
         version! But remember, nomadicards are meant to be played in person — to think,<br/>
         to laugh, and to cry together ✨</p>
         
