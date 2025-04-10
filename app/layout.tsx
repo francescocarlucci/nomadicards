@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nomadicards",
+  title: "Nomadicards - Conversation Cards for Digital Nomads",
   description: "Meaningful Conversations for Digital Nomads",
 };
 
