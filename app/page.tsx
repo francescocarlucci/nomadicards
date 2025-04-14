@@ -35,7 +35,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/1.jpg"
-          alt=""
+          alt="Nomadicards preview 1"
           width={500}
           height={300}
         />
@@ -43,7 +43,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/2.jpg"
-          alt=""
+          alt="Nomadicards preview 2"
           width={500}
           height={300}
         />
@@ -51,7 +51,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/3.jpg"
-          alt=""
+          alt="Nomadicards preview 3"
           width={500}
           height={300}
         />
@@ -59,7 +59,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/4.jpg"
-          alt=""
+          alt="Nomadicards preview 4"
           width={500}
           height={300}
         />
@@ -67,7 +67,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/5.jpg"
-          alt=""
+          alt="Nomadicards preview 5"
           width={500}
           height={300}
         />
@@ -75,7 +75,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/6.jpg"
-          alt=""
+          alt="Nomadicards preview 6"
           width={500}
           height={300}
         />
@@ -83,7 +83,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/7.jpg"
-          alt=""
+          alt="Nomadicards preview 7"
           width={500}
           height={300}
         />
@@ -91,7 +91,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/8.jpg"
-          alt=""
+          alt="Nomadicards preview 8"
           width={500}
           height={300}
         />
@@ -99,7 +99,7 @@ export default function Home() {
         <Image
           className="rounded-lg"
           src="/images/9.jpg"
-          alt=""
+          alt="Nomadicards preview 9"
           width={500}
           height={300}
         />
