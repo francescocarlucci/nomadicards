@@ -29,10 +29,10 @@ export default function Home() {
         <b>Nomadicards</b> only in Francesco&apos;s bedroom, but they started traveling<br/>
         and now you can find them in the coolest coliving spaces on the planet:</p>
 
-        <ul>
-          <li>• <a href="https://www.altcoliving.com/" className="font-bold">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
-          <li>• <a href="https://hubhoian.com/" className="font-bold">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
-          <li>• <a href="https://colivingsemkovo.com/" className="font-bold">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
+        <ul className="ml-3">
+          <li>• <a href="https://www.altcoliving.com/" className="font-bold" target="_blank">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
+          <li>• <a href="https://hubhoian.com/" className="font-bold" target="_blank">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
+          <li>• <a href="https://colivingsemkovo.com/" className="font-bold" target="_blank">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
           <li>• More to come... 🌎</li>
         </ul>
 
@@ -44,6 +44,13 @@ export default function Home() {
         <p>And if you really can&apos;t wait to play, scroll down this page and get a digital<br/>
         version! But remember, nomadicards are meant to be played in person — to think,<br/>
         to laugh, and to cry together ✨</p>
+
+        <h3 className="text-lg font-bold">Nomadic-friends who like Nomadi-cards:</h3>
+
+        <ul className="ml-3">
+          <li>• <a href="https://www.thedigitalnomad.site/" className="font-bold" target="_blank">The Digital Nomad</a></li>
+          <li>• <a href="https://www.nomadgossip.com/nomad_directory" className="font-bold" target="_blank">Nomad Gossip Magazine</a></li>
+        </ul>
         
         <Image
           className="rounded-lg"
