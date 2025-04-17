@@ -20,13 +20,26 @@ export default function Home() {
         <p>This is how every conversation between digital nomads starts,<br/>
         but sometimes we need more than that!</p>
 
-        <p>So, please meet 💬 <b>nomadicards</b>, a card game designed for digital nomads<br/>
+        <p>So, please meet <b>Nomadicards</b>, a card game designed for digital nomads<br/>
         who want to go beyond small talk and explore different aspects of their life<br/>
         through <b>engaging, thought-provoking, and entertaining scenarios</b>.</p>
 
-        <p>💬 <b>nomadicards</b> are a side project by Francesco, a seasoned nomad<br/>
-        who loves deep conversations. They are not for sale, but you can request<br/>
-        a <b>free deck</b> by <a href="mailto:info@francescocarlucci.com" className="underline">shooting him an email</a> (especially if you run a coliving)! ☺️</p>
+        <p><b>Nomadicards</b> are a side project by Francesco, a seasoned nomad<br/>
+        who loves deep conversations. Until a few weeks ago, you could find<br/>
+        <b>Nomadicards</b> only in Francesco&apos;s bedroom, but they started traveling<br/>
+        and now you can find them in the coolest coliving spaces on the planet:</p>
+
+        <ul>
+          <li>• <a href="https://www.altcoliving.com/" className="font-bold">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
+          <li>• <a href="https://hubhoian.com/" className="font-bold">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
+          <li>• <a href="https://colivingsemkovo.com/" className="font-bold">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
+          <li>• More to come... 🌎</li>
+        </ul>
+
+
+        <p><b>Nomadicards</b> are not for sale, but if you run a coliving space you can get<br/>
+        a <b>free deck</b> if you are willing to cover the shipping cost! Just <a href="mailto:info@francescocarlucci.com?subject=I want Nomadicards please!" className="underline">email Francesco</a><br/>
+        and we will arrange it ☺️</p>
 
         <p>And if you really can&apos;t wait to play, scroll down this page and get a digital<br/>
         version! But remember, nomadicards are meant to be played in person — to think,<br/>
