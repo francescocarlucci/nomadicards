@@ -49,6 +49,7 @@ export default function Home() {
 
         <ul className="ml-3">
           <li>• <a href="https://www.thedigitalnomad.site/" className="font-bold" target="_blank">The Digital Nomad</a></li>
+          <li>• <a href="https://remotebase.co/" className="font-bold" target="_blank">RemoteBase</a></li>
           <li>• <a href="https://www.nomadgossip.com/nomad_directory" className="font-bold" target="_blank">Nomad Gossip Magazine</a></li>
         </ul>
         
