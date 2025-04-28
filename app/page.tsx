@@ -27,12 +27,13 @@ export default function Home() {
         <p><b>Nomadicards</b> are a side project by Francesco, a seasoned nomad<br/>
         who loves deep conversations. Until a few weeks ago, you could find<br/>
         <b>Nomadicards</b> only in Francesco&apos;s bedroom, but they started traveling<br/>
-        and now you can find them in the coolest coliving spaces on the planet:</p>
+        and now you can find them in the coolest creative spaces on the planet:</p>
 
         <ul className="ml-3">
           <li>• <a href="https://www.altcoliving.com/" className="font-bold" target="_blank">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
           <li>• <a href="https://hubhoian.com/" className="font-bold" target="_blank">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
           <li>• <a href="https://colivingsemkovo.com/" className="font-bold" target="_blank">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
+          <li>• <a href="https://madeirafriends.org/" className="font-bold" target="_blank">Madeira Friends (Madeira)</a> 🌴 🇵🇹</li>
           <li>• <a href="https://www.outsite.co/locations/madeira-ponta-do-sol" className="font-bold" target="_blank">Outsite Ponta do Sol (Madeira)</a> 🍌 🇵🇹</li>
           <li>• More to come... 🌎</li>
         </ul>
