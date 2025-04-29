@@ -34,6 +34,7 @@ export default function Home() {
           <li>• <a href="https://hubhoian.com/" className="font-bold" target="_blank">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
           <li>• <a href="https://colivingsemkovo.com/" className="font-bold" target="_blank">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
           <li>• <a href="https://www.outsite.co/locations/madeira-ponta-do-sol" className="font-bold" target="_blank">Outsite Ponta do Sol (Madeira)</a> 🍌 🇵🇹</li>
+          <li>• <a href="https://www.alvadamadeira.com/" className="font-bold" target="_blank">Alvada Coliving (Madeira)</a> ☀️ 🇵🇹</li>
           <li>• More to come... 🌎</li>
         </ul>
 
