@@ -33,7 +33,6 @@ export default function Home() {
           <li>• <a href="https://www.altcoliving.com/" className="font-bold" target="_blank">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
           <li>• <a href="https://hubhoian.com/" className="font-bold" target="_blank">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
           <li>• <a href="https://colivingsemkovo.com/" className="font-bold" target="_blank">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
-          <li>• <a href="https://madeirafriends.org/" className="font-bold" target="_blank">Madeira Friends (Madeira)</a> 🌴 🇵🇹</li>
           <li>• <a href="https://www.outsite.co/locations/madeira-ponta-do-sol" className="font-bold" target="_blank">Outsite Ponta do Sol (Madeira)</a> 🍌 🇵🇹</li>
           <li>• More to come... 🌎</li>
         </ul>
@@ -51,9 +50,10 @@ export default function Home() {
 
         <ul className="ml-3">
           <li>• <a href="https://www.thedigitalnomad.site/subscribe" className="font-bold" target="_blank">The Digital Nomad</a></li>
-          <li>• <a href="https://www.mapmelon.com/" className="font-bold" target="_blank">Mapmelon 🍉</a></li>
-          <li>• <a href="https://remotebase.co/" className="font-bold" target="_blank">RemoteBase</a></li>
           <li>• <a href="https://www.nomadgossip.com/nomad_directory" className="font-bold" target="_blank">Nomad Gossip Magazine</a></li>
+          <li>• <a href="https://www.mapmelon.com/" className="font-bold" target="_blank">Mapmelon 🍉</a></li>
+          <li>• <a href="https://madeirafriends.org/" className="font-bold" target="_blank">Madeira Friends</a> 🌴</li>
+          <li>• <a href="https://remotebase.co/" className="font-bold" target="_blank">RemoteBase</a></li>
         </ul>
         
         <Image
