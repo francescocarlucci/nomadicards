@@ -32,6 +32,7 @@ export default function Home() {
         <ul className="ml-3">
           <li>• <a href="https://www.altcoliving.com/" className="font-bold" target="_blank">Alt_ Chiang Mai (Thailand)</a> 🐘 🇹🇭</li>
           <li>• <a href="https://hubhoian.com/" className="font-bold" target="_blank">Hub Hoi Han (Vietnam)</a> 🍜 🇻🇳</li>
+          <li>• <a href="https://www.masseriaolga.com/" className="font-bold" target="_blank">Masseria Olga (Italy)</a> 🍊 🇮🇹</li>
           <li>• <a href="https://colivingsemkovo.com/" className="font-bold" target="_blank">Coliving Semkovo (Bulgaria)</a> ⛰️ 🇧🇬</li>
           <li>• <a href="https://www.outsite.co/locations/madeira-ponta-do-sol" className="font-bold" target="_blank">Outsite Ponta do Sol (Madeira)</a> 🍌 🇵🇹</li>
           <li>• <a href="https://www.alvadamadeira.com/" className="font-bold" target="_blank">Alvada Coliving (Madeira)</a> ☀️ 🇵🇹</li>
