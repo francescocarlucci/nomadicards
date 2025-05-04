@@ -54,6 +54,7 @@ export default function Home() {
           <li>• <a href="https://www.thedigitalnomad.site/subscribe" className="font-bold" target="_blank">The Digital Nomad</a></li>
           <li>• <a href="https://www.nomadgossip.com/nomad_directory" className="font-bold" target="_blank">Nomad Gossip Magazine</a></li>
           <li>• <a href="https://www.mapmelon.com/" className="font-bold" target="_blank">Mapmelon 🍉</a></li>
+          <li>• <a href="https://freakingnomads.com/" className="font-bold" target="_blank">Freaking Nomads</a></li>
           <li>• <a href="https://madeirafriends.org/" className="font-bold" target="_blank">Madeira Friends</a> 🌴</li>
           <li>• <a href="https://remotebase.co/" className="font-bold" target="_blank">RemoteBase</a></li>
         </ul>
